@@ -1,19 +1,20 @@
-# Tic Tac Toe Game (C++)
-
+# Tic Tac Toe Game (C++) 
 This is a 2-player console-based Tic Tac Toe game implemented in C++. The game uses a simple 3x3 board and allows two players to alternate turns to place their markers.
 
 ## Features
-- 2-player turn-based gameplay
+- 2-player mode
 - Input validation
-- Win/draw detection
+- Win and draw detection
+- Console UI
+
+## Technologies Used
+- Language: C++
+- Platform: Console
 
 ## How to Run
-Compile the code using any C++ compiler (like g++) and run the executable.
-
-```bash
-g++ tic_tac_toe.cpp -o tic_tac_toe
-./tic_tac_toe
-```
+1. Open terminal
+2. Compile: `g++ tic_tac_toe.cpp -o ttt`
+3. Run: `./ttt`
 
 ## Author
 Pranjal Kumar (GitHub: [Pranjalkumar123](https://github.com/Pranjalkumar123))
