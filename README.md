@@ -17,4 +17,7 @@ This is a 2-player console-based Tic Tac Toe game implemented in C++. The game u
 3. Run: `./ttt`
 
 ## Author
-Pranjal Kumar (GitHub: [Pranjalkumar123](https://github.com/Pranjalkumar123))
+Pranjal Kumar (GitHub: [Pranjalkumar123](https://github.com/Pranjalkumar123))     
+## 🎥 Demo Video
+
+[Click here to watch demo](https://drive.google.com/file/d/19UafSzVI0E5ek4QTQ_Fb4oteAfT-b2rH/view?usp=drivesdk)
