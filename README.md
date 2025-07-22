@@ -21,3 +21,5 @@ Pranjal Kumar (GitHub: [Pranjalkumar123](https://github.com/Pranjalkumar123))
 ## 🎥 Demo Video
 
 [Click here to watch demo](https://drive.google.com/file/d/19UafSzVI0E5ek4QTQ_Fb4oteAfT-b2rH/view?usp=drivesdk)
+
+📱 All done on phone using Cxxdroid app. No laptop used.
